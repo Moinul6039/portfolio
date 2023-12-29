@@ -16,6 +16,9 @@ body {
     font-weight: 700;
     padding: 15px 35px;
 }
+.icone{
+    align-items: center;
+}
 
 .section-title {
     color: #181818;
@@ -41,6 +44,7 @@ nav {
 
 .nav-title {
     color: #181818;
+    
     font-size: 45px;
     font-weight: 800;
 }
